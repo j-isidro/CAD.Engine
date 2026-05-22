@@ -6,8 +6,12 @@ This project involved the comprehensive design, analysis, and fabrication of a 1
 The engine was evaluated against the 2012 Ford Coyote 5.0L V8 using a power-to-size scoring formula, with the goal of maximizing horsepower and torque relative to engine volume.
 
 ### Final Assembly
-<!-- Replace with your uploaded GitHub image link -->
-![Engine Assembly](YOUR_IMAGE_LINK_HERE)
+
+<img src="https://github.com/user-attachments/assets/146a6d67-536c-49fe-a2d9-02339d61c661" 
+  width="360" 
+  height="420" 
+  alt="IMG_7209" />
+
 
 ---
 
@@ -81,3 +85,10 @@ The engine was evaluated against the 2012 Ford Coyote 5.0L V8 using a power-to-s
 - Thermodynamic and dynamic engineering calculations
 - 3D printing and iterative design
 - Technical communication (poster presentation at Innovation Annex)
+
+<img src="https://github.com/user-attachments/assets/cbc64d0f-450a-4240-990b-fa3b3ffd28bb"
+  width="360" 
+  height="420" 
+  alt="IMG_4467" />
+
+
