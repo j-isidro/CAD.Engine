@@ -5,7 +5,7 @@ This project involved the comprehensive design, analysis, and fabrication of a 1
 
 The engine was evaluated against the 2012 Ford Coyote 5.0L V8 using a power-to-size scoring formula, with the goal of maximizing horsepower and torque relative to engine volume.
 
-### Final Assembly
+### Final Assembly without the legs
 
 <img src="https://github.com/user-attachments/assets/146a6d67-536c-49fe-a2d9-02339d61c661" 
   width="360" 
@@ -66,29 +66,43 @@ The engine was evaluated against the 2012 Ford Coyote 5.0L V8 using a power-to-s
 - Determined stress, strain, and factor of safety on the connecting rod at the piston head location
 - Used results to justify material selection and identify design changes before printing
 
-### Phase 5: Fabrication & Optimization
-- 3D printed all components using PLA on Prusa printers
-- Assembled engine and conducted informal test sessions with TAs
-- Refined and reprinted parts based on testing feedback
+### Phase 5: Fabrication & Optimization 
+Three major design iterations were completed before the final competition build:
+
+**Iteration 1**
+- Multiple failure points identified during informal testing
+- Issues with cylinder fitment, crankshaft geometry, and mounting
+
+**Iteration 2**
+- Redesigned crankshaft using fused separate pieces
+- Crankshaft fusion resolved some issues but mounting remained problematic
+
+**Final Iteration**
+- Squared crankshaft pins added to resist rotation and withstand torsional stress
+- Crankshaft printed in separate parts proved efficient and effective
+- Engine still experienced some connecting rod fusion during high-RPM testing
 
 ---
 
 ## Testing & Results
 - **Formal test protocol:** Sustained 300 RPM for 30s → 600 RPM for 30s → 900 RPM for 60s
-- **Maximum RPM achieved: 2,100 RPM** which was highest in the class
+- **Maximum RPM achieved: 2,100 RPM** — highest in the class
 - **Result: 1st place** in the formal engine competition
+- Engine ultimately failed due to fusion of a connecting rod to the crankshaft, not wrist pin failure
+- **Future improvement identified:** dried super glue between connecting rod and crankshaft to reduce friction and prevent fusion
 
+[Watch the engine run at 900 RPM](https://drive.google.com/file/d/1uopaTeMAg6DidHOojKf3JH2RAt3dzKZa/view?usp=drive_link)
 ---
 
 ## Skills Demonstrated
 - SolidWorks (part modeling, assemblies, motion simulation, stress analysis)
 - Thermodynamic and dynamic engineering calculations
 - 3D printing and iterative design
-- Technical communication (poster presentation at Innovation Annex)
+- Technical communication (poster presentation in class)
+[Engine Project Poster.pdf](https://github.com/user-attachments/files/28160630/Engine.Project.Poster.pdf)
+
 
 <img src="https://github.com/user-attachments/assets/cbc64d0f-450a-4240-990b-fa3b3ffd28bb"
   width="360" 
   height="420" 
   alt="IMG_4467" />
-
-
